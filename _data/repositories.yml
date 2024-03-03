@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - parth1902
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - parth1902/Scrape-FBref-data
+  - parth1902/spotify-random-song-widget
+  - parth1902/Liverpool-Pitch-Control
+  - parth1902/PCA_Player_Finder
+  - parth1902/Understat-Data-Simulator
